@@ -1,2 +1,2 @@
 # crawling_practice
-must install requests(using pip)
+must install requests, bs4, pymongo(using pip)

@@ -1,6 +1,3 @@
-# 패키지 설치할 때
-# 경로 : cd C:\Users\김지혜\Desktop\sparta\pythonprac\venv\Scripts
-# pip install (패키지 이름)
 
 import requests
 from bs4 import BeautifulSoup
